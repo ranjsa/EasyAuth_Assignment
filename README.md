@@ -1,9 +1,10 @@
 # EasyAuth_Assignment
+API hosted At <http://ec2-54-173-132-62.compute-1.amazonaws.com:8000/api/>
+
 # Product API
 
 ## API Architecture
-
-
+![API IMAGE](https://github.com/ranjsa/EasyAuth_Assignment/blob/master/PRODUCT_API.png)
 
 | HTTP verbs | API Endpoints  | Function  |
 |---|---|---|
